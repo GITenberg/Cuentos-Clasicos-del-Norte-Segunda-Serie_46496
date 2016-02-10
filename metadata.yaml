@@ -1,0 +1,48 @@
+_repo: Cuentos-Clasicos-del-Norte-Segunda-Serie_46496
+contributor:
+  translator:
+    agent_name: Pinillos, Carmen Torres Calderón de
+    gutenberg_agent_id: '43653'
+    url: http://www.gutenberg.org/2009/agents/43653
+covers:
+- cover_type: archival
+  image_path: 46496/46496-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  authors:
+  - agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+  - agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+  - agent_name: Hale, Edward Everett
+    aliases:
+    - Hale, Edward E.
+    - Ingham, Frederic
+    - Darragh, J. Thomas
+    - Hale, E. E. (Edward Everett)
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+description: ''
+gutenberg_issued: '2014-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46496'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Cuentos Clásicos del Norte, Segunda Serie
+url: http://www.gutenberg.org/ebooks/46496
