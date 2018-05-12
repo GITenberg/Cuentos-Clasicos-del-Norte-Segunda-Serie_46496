@@ -1,4 +1,5 @@
 _repo: Cuentos-Clasicos-del-Norte-Segunda-Serie_46496
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Pinillos, Carmen Torres Calderón de
@@ -6,9 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43653
 covers:
 - cover_type: archival
-  image_path: 46496/46496-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46496-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Irving, Washington
@@ -36,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/650
     wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46496#Cuentos-Clasicos-del-Norte-Segunda-Serie
 gutenberg_issued: '2014-08-03'
 gutenberg_type: Text
 identifiers:
